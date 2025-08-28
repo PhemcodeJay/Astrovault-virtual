@@ -3,3 +3,4 @@ pandas
 web3
 python-dotenv
 requests
+plotly
